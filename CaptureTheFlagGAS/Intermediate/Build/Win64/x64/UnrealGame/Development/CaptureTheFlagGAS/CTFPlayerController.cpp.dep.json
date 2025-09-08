@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\private\\gameframework\\ctfplayercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\x64\\capturetheflaggas\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\x64\\unrealgame\\development\\capturetheflaggas\\definitions.capturetheflaggas.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\public\\gameframework\\ctfplayercontroller.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\public\\core\\ctftypes.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealgame\\inc\\capturetheflaggas\\uht\\ctftypes.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealgame\\inc\\capturetheflaggas\\uht\\ctfplayercontroller.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\public\\components\\ctfplayercomponent.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealgame\\inc\\capturetheflaggas\\uht\\ctfplayercomponent.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\public\\gameplay\\ctfflag.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealgame\\inc\\capturetheflaggas\\uht\\ctfflag.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\public\\gameplay\\ctfcapturezone.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealgame\\inc\\capturetheflaggas\\uht\\ctfcapturezone.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\public\\gameframework\\ctfplayerstate.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\playerstate.generated.h",
+            "d:\\ue_5.6\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\abilitysysteminterface.h",
+            "d:\\ue_5.6\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealgame\\inc\\gameplayabilities\\uht\\abilitysysteminterface.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealgame\\inc\\capturetheflaggas\\uht\\ctfplayerstate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

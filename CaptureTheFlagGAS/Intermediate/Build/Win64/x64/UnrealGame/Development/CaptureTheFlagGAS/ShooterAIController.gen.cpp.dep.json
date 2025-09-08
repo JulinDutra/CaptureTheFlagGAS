@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealgame\\inc\\capturetheflaggas\\uht\\shooteraicontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\x64\\capturetheflaggas\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\x64\\unrealgame\\development\\capturetheflaggas\\definitions.capturetheflaggas.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\variant_shooter\\ai\\shooteraicontroller.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aicontroller.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\navagentselector.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\navagentselector.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aitypes.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\gameplaytasks\\classes\\gameplaytaskownerinterface.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\gameplaytasks\\public\\gameplaytasktypes.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytasks\\uht\\gameplaytaskownerinterface.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\gameplaytasks\\classes\\gameplaytask.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytasks\\uht\\gameplaytask.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptionlistenerinterface.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aiperceptionlistenerinterface.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\visuallogger\\visualloggerdebugsnapshotinterface.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\visualloggerdebugsnapshotinterface.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aicontroller.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealgame\\inc\\capturetheflaggas\\uht\\shooteraicontroller.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptiontypes.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aiperceptiontypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

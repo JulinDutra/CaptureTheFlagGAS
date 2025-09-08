@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealgame\\inc\\capturetheflaggas\\uht\\envquerycontext_target.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\x64\\capturetheflaggas\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\x64\\unrealgame\\development\\capturetheflaggas\\definitions.capturetheflaggas.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\variant_shooter\\ai\\envquerycontext_target.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\envquerycontext.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envquerycontext.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealgame\\inc\\capturetheflaggas\\uht\\envquerycontext_target.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

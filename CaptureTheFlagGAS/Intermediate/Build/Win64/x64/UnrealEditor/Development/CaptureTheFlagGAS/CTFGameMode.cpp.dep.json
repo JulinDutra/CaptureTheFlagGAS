@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\private\\gameframework\\ctfgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\x64\\capturetheflaggaseditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.valexpapi.cpp20.inclorderunreal5_2.h.pch",
+        "Includes": [
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\capturetheflaggas\\definitions.capturetheflaggas.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\public\\gameframework\\ctfgamemode.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\capturetheflaggasgamemode.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemode.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\public\\core\\ctftypes.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealeditor\\inc\\capturetheflaggas\\uht\\ctftypes.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealeditor\\inc\\capturetheflaggas\\uht\\capturetheflaggasgamemode.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealeditor\\inc\\capturetheflaggas\\uht\\ctfgamemode.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\public\\gameframework\\ctfgamestate.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestate.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestate.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealeditor\\inc\\capturetheflaggas\\uht\\ctfgamestate.generated.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\public\\gameplay\\ctfflag.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealeditor\\inc\\capturetheflaggas\\uht\\ctfflag.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

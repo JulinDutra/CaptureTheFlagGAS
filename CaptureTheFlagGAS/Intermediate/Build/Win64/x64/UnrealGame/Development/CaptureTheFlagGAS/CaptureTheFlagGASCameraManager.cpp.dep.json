@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\capturetheflaggascameramanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\x64\\capturetheflaggas\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\x64\\unrealgame\\development\\capturetheflaggas\\definitions.capturetheflaggas.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\source\\capturetheflaggas\\capturetheflaggascameramanager.h",
+            "d:\\personal\\capturetheflaggas\\capturetheflaggas\\capturetheflaggas\\intermediate\\build\\win64\\unrealgame\\inc\\capturetheflaggas\\uht\\capturetheflaggascameramanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

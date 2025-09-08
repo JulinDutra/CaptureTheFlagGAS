@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Personal\\CaptureTheFlagGAS\\CaptureTheFlagGAS\\CaptureTheFlagGAS\\Source\\CaptureTheFlagGAS\\CaptureTheFlagGAS.Build.cs",
+		"D:\\Personal\\CaptureTheFlagGAS\\CaptureTheFlagGAS\\CaptureTheFlagGAS\\Source\\CaptureTheFlagGAS.Target.cs",
+		"D:\\Personal\\CaptureTheFlagGAS\\CaptureTheFlagGAS\\CaptureTheFlagGAS\\Source\\CaptureTheFlagGASEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

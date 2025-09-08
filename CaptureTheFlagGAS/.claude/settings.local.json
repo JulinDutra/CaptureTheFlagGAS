@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(\"C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Build\\BatchFiles\\Build.bat\" CaptureTheFlagGAS Win64 Development -Project=\"D:\\Personal\\CaptureTheFlagGAS\\CaptureTheFlagGAS\\CaptureTheFlagGAS\\CaptureTheFlagGAS.uproject\" -WaitMutex)",
+      "Bash(where msbuild)",
+      "Bash(\"C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/MSBuild.exe\" CaptureTheFlagGAS.sln /p:Configuration=Development /p:Platform=Win64)",
+      "Bash(\"C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/MSBuild.exe\" CaptureTheFlagGAS.sln -p:Configuration=Development -p:Platform=Win64)",
+      "Bash(\"C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/MSBuild.exe\" CaptureTheFlagGAS.sln -p:Configuration=Development -p:Platform=Win64 -maxcpucount:1)",
+      "Bash(\"C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat\" CaptureTheFlagGAS Win64 Development -Project=\"D:/Personal/CaptureTheFlagGAS/CaptureTheFlagGAS/CaptureTheFlagGAS/CaptureTheFlagGAS.uproject\" -WaitMutex)",
+      "Bash(find:*)",
+      "Bash(\"C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Build\\BatchFiles\\Build.bat\" CaptureTheFlagGASEditor Win64 Development -Project=\"D:\\Personal\\CaptureTheFlagGAS\\CaptureTheFlagGAS\\CaptureTheFlagGAS\\CaptureTheFlagGAS.uproject\" -WaitMutex)",
+      "Bash(\"C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat\" CaptureTheFlagGASEditor Win64 Development -Project=\"D:/Personal/CaptureTheFlagGAS/CaptureTheFlagGAS/CaptureTheFlagGAS/CaptureTheFlagGAS.uproject\" -WaitMutex)",
+      "Read(//c/Program Files/Epic Games/**)",
+      "Bash(\"C:/Program Files/Epic Games/UE_5.2/Engine/Build/BatchFiles/Build.bat\" CaptureTheFlagGASEditor Win64 Development -Project=\"D:/Personal/CaptureTheFlagGAS/CaptureTheFlagGAS/CaptureTheFlagGAS/CaptureTheFlagGAS.uproject\" -WaitMutex)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
